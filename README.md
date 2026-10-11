@@ -44,9 +44,7 @@ The extension processes page text in your browser. It does not send the full pag
 
 ### تصویر نمونه
 
-این تصویر نمونه‌ای از نمایش ترجمه‌ها در مستندات Next.js است:
-
-![نمایش معنی فارسی بالای واژه‌های انگلیسی در مستندات Next.js](nextjs-translation-example.png)
+تصویر نمونهٔ نمایش ترجمه‌ها در مستندات Next.js را در بخش بالاتر ببینید.
 
 ### امکانات
 
