@@ -1,0 +1,11 @@
+ruby.wordyar-word { ruby-position: over; ruby-align: center; }
+ruby.wordyar-word > rt {
+  color: #176b55;
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 0.58em;
+  font-weight: 500;
+  line-height: 1.1;
+  text-align: center;
+  white-space: nowrap;
+  user-select: none;
+}
